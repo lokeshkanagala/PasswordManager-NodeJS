@@ -1,0 +1,23 @@
+{
+  "name": "passwordmanager-nodejs",
+  "version": "1.0.0",
+  "description": "A simple Password Manager application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshkanagala/PasswordManager-NodeJS.git"
+  },
+  "keywords": [
+    "Password",
+    "Manager"
+  ],
+  "author": "Lokesh Kanagala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lokeshkanagala/PasswordManager-NodeJS/issues"
+  },
+  "homepage": "https://github.com/lokeshkanagala/PasswordManager-NodeJS#readme"
+}
